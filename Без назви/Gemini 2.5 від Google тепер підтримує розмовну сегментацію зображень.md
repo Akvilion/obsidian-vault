@@ -4,3 +4,6 @@
 
 Для досягнення найкращих результатів Google рекомендує використовувати модель gemini-2.5-flash та встановити для параметра "thinkingBudget" значення "0", щоб забезпечити негайний відгук.
 
+https://aistudio.google.com/app/apps/bundled/spatial-understanding?showPreview=true&appParams=task%3Dsegmentation-masks
+
+Якщо можна використовувати відео то система може робити детекцію коли комакс робить якусь дію чи ні!
